@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ryoji Shimada - 通訳案内士</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background-color: #4CAF50;
+            color: white;
+            padding: 1em 0;
+            text-align: center;
+        }
+        nav {
+            text-align: center;
+            margin: 15px 0;
+        }
+        nav a {
+            margin: 0 15px;
+            color: #4CAF50;
+            text-decoration: none;
+        }
+        section {
+            max-width: 900px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: white;
+            border-radius: 5px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+        footer {
+            text-align: center;
+            padding: 10px 0;
+            background-color: #4CAF50;
+            color: white;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Ryoji Shimada - 通訳案内士</h1>
+    <p>東京を中心に活躍するプロの通訳案内士</p>
+</header>
+
+<nav>
+    <a href="#about">自己紹介</a>
+    <a href="#services">提供サービス</a>
+    <a href="#contact">お問い合わせ</a>
+</nav>
+
+<section id="about">
+    <h2>自己紹介</h2>
+    <p>こんにちは、Ryoji Shimadaです。私は東京都出身の通訳案内士で、20年以上にわたり国際文化交流イベントを手掛けています。東京のランドマークから隠れた名所まで、東京の魅力を存分にお届けします。</p>
+    <p>英語に堪能で、文化交流やビジネスマナーのトレーニングを提供してきた経験が豊富です。特に、お客様のニーズに合わせたパーソナライズされた体験を大切にしています。また、テクノロジー企業や国際的なイベントにも関わり、幅広い業界での経験を積んでいます。</p>
+    <p>趣味は旅行と美術鑑賞で、特に東京周辺のアート展示会に足を運ぶことが多いです。ガイドツアーでは、お客様のご希望に応じて、伝統文化から現代アートに至るまで、多彩な経験を提供します。</p>
+</section>
+
+<section id="services">
+    <h2>提供サービス</h2>
+    <ul>
+        <li>東京のカスタムツアーガイド</li>
+        <li>企業向けビジネスマナー研修</li>
+        <li>国際文化交流イベントのサポート</li>
+        <li>英語ビジネス文書の翻訳・通訳</li>
+    </ul>
+</section>
+
+<section id="contact">
+    <h2>お問い合わせ</h2>
+    <p>ツアーのご予約やビジネスマナー研修の依頼など、お気軽にお問い合わせください。</p>
+    <p>メール: <a href="mailto:ryoji@example.com">ryoji@example.com</a></p>
+    <p>電話: 090-1234-5678</p>
+</section>
+
+<footer>
+    <p>&copy; 2024 Ryoji Shimada - 通訳案内士</p>
+</footer>
+
+</body>
+</html>
